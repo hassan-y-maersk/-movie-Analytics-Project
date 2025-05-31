@@ -1,0 +1,19 @@
+List the top 5 movies with the highest IMDb rating.
+
+Find the total number of movies released each year.
+
+Which genre has the highest average rating?
+
+Find the movie(s) directed by "Christopher Nolan".
+
+What is the average duration of movies released after 2010?
+
+List all movies with a revenue greater than $500 million.
+
+Find the number of movies for each genre.
+
+Which year had the highest number of movie releases?
+
+List the top 3 directors who have directed the most movies.
+
+Find all movies where the duration is above the average duration.
